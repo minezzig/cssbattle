@@ -7,7 +7,7 @@
   <div class="circle left"></div>
 </div>
 <div class="middle-container">
-	<div class="circle center"></div>
+  <div class="circle center"></div>
 </div>
 <div class="container-right">
   <div class="circle right"></div>
@@ -17,14 +17,14 @@
 
 <style>
   body {
-    background-color: #F5D6B4;
+    background-color: #f5d6b4;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .circle{
-	background-color: #F5D6B4;
-  	border:20px #D86F45 solid;
+  .circle {
+    background-color: #f5d6b4;
+    border: 20px #d86f45 solid;
     height: 60px;
     width: 60px;
     border-radius: 50%;
@@ -33,40 +33,40 @@
   .right {
     bottom: 0;
   }
- 
+
   .center {
     z-index: 1;
   }
-  
+
   .container-right {
-	overflow: hidden;
+    overflow: hidden;
     height: 50px;
     transform: translateY(25px) translateX(-20px) rotate(180deg);
   }
-  
-   .container-left {
-	overflow: hidden;
+
+  .container-left {
+    overflow: hidden;
     height: 50px;
     transform: translateY(25px) translateX(20px) rotate(180deg);
   }
-  
-    .middle-container {
-	overflow: hidden;
+
+  .middle-container {
+    overflow: hidden;
     height: 50px;
-    transform: translateY(-25px);				 
+    transform: translateY(-25px);
   }
-  
+
   .cap1 {
-    background-color: #D86F45;
+    background-color: #d86f45;
     border-radius: 50%;
     height: 20px;
     width: 20px;
     position: absolute;
     left: 70px;
   }
-  
-    .cap2 {
-    background-color: #D86F45;
+
+  .cap2 {
+    background-color: #d86f45;
     border-radius: 50%;
     height: 20px;
     width: 20px;

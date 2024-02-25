@@ -10,33 +10,33 @@
 <style>
   body {
     margin: 0;
-    background-color: #0B2429;
+    background-color: #0b2429;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  
+
   .leaf {
     height: 150px;
     width: 150px;
     border-top-left-radius: 66%;
     border-bottom-right-radius: 66%;
     position: absolute;
-   }
-  
+  }
+
   .leaf1 {
-    background-color: #1A4341;
+    background-color: #1a4341;
     left: 75px;
   }
-  
+
   .leaf2 {
     background-color: #998235;
     left: 125px;
   }
-  
+
   .leaf3 {
-    background-color: #F3AC3C;
+    background-color: #f3ac3c;
     left: 175px;
   }
- </style>
+</style>
 ```

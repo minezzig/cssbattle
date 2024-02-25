@@ -9,9 +9,9 @@
   </div>
 </div>
 <div class="ring">
-	<div class="inner-ring">
-      <div class="dot"></div>
-    </div>
+  <div class="inner-ring">
+    <div class="dot"></div>
+  </div>
 </div>
 <div class="right-container">
   <div class="right-ring">
@@ -19,15 +19,14 @@
   </div>
 </div>
 
-
 <style>
   body {
     background-color: #191210;
-	display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
   }
-  
+
   .left-container {
     height: 50px;
     width: 100px;
@@ -40,11 +39,11 @@
     border-radius: 50%;
     height: 100px;
     width: 100px;
-    background-color: #ECA03D;
+    background-color: #eca03d;
     position: absolute;
     bottom: 0px;
   }
-  
+
   .left-inner-ring {
     border-radius: 50%;
     height: 60px;
@@ -54,15 +53,15 @@
     bottom: 20px;
     left: 20px;
   }
-  
+
   .ring {
-    background-color: #ECA03D;
+    background-color: #eca03d;
     border-radius: 50%;
     height: 140px;
     width: 140px;
     position: absolute;
   }
-  
+
   .inner-ring {
     background-color: #191210;
     border-radius: 50%;
@@ -72,9 +71,9 @@
     top: 20px;
     left: 20px;
   }
-  
+
   .dot {
-    background-color: #84271C;
+    background-color: #84271c;
     border-radius: 50%;
     height: 50px;
     width: 50px;
@@ -82,7 +81,7 @@
     top: 25px;
     left: 25px;
   }
-  
+
   .right-container {
     height: 50px;
     width: 100px;
@@ -95,10 +94,10 @@
     border-radius: 50%;
     height: 100px;
     width: 100px;
-    background-color: #ECA03D;
+    background-color: #eca03d;
     transform: rotateX(180deg);
   }
-  
+
   .right-inner-ring {
     border-radius: 50%;
     height: 60px;
@@ -108,8 +107,5 @@
     bottom: 20px;
     left: 20px;
   }
-
-  
 </style>
-
 ```
