@@ -20,9 +20,9 @@
 [<img src="https://cssbattle.dev/targets/17.png" width="100" alt="17-fidget-spinner" />](./2-visibility/17-fidget-spinner.md)
 [<img src="https://cssbattle.dev/targets/18.png" width="100" alt="18-matrix" />](./2-visibility/18-matrix.md)
 
-<!-- [
-    <img src="https://cssbattle.dev/targets/19.png" width="100" alt="19-" />](https://cssbattle.dev/play/19)
-[<img src="https://cssbattle.dev/targets/20.png" width="100" alt="20-" />](https://cssbattle.dev/play/20)
+[<img src="https://cssbattle.dev/targets/19.png" width="100" alt="19-cube" />](./3-cursor/19-cube)
+[<img src="https://cssbattle.dev/targets/20.png" width="100" alt="20-ticket" />](./3-cursor/20-ticket)
+<!-- 
 
 [<img src="https://cssbattle.dev/targets/21.png" width="100" alt="21-" />](https://cssbattle.dev/play/21)
 [<img src="https://cssbattle.dev/targets/22.png" width="100" alt="22-" />](https://cssbattle.dev/play/22)
