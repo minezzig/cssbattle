@@ -20,26 +20,35 @@
 [<img src="https://cssbattle.dev/targets/17.png" width="100" alt="17-fidget-spinner" />](./2-visibility/17-fidget-spinner.md)
 [<img src="https://cssbattle.dev/targets/18.png" width="100" alt="18-matrix" />](./2-visibility/18-matrix.md)
 
-[<img src="https://cssbattle.dev/targets/19.png" width="100" alt="19-cube" />](./3-cursor/19-cube)
-[<img src="https://cssbattle.dev/targets/20.png" width="100" alt="20-ticket" />](./3-cursor/20-ticket)
-<!-- 
+[<img src="https://cssbattle.dev/targets/19.png" width="100" alt="19-cube" />](./3-cursor/19-cube.md)
+[<img src="https://cssbattle.dev/targets/20.png" width="100" alt="20-ticket" />](./3-cursor/20-ticket.md)
 
-[<img src="https://cssbattle.dev/targets/21.png" width="100" alt="21-" />](https://cssbattle.dev/play/21)
-[<img src="https://cssbattle.dev/targets/22.png" width="100" alt="22-" />](https://cssbattle.dev/play/22)
-[<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-" />](https://cssbattle.dev/play/23)
-[<img src="https://cssbattle.dev/targets/24.png" width="100" alt="24-" />](https://cssbattle.dev/play/24)
-[<img src="https://cssbattle.dev/targets/25.png" width="100" alt="25-" />](https://cssbattle.dev/play/25)
-[<img src="https://cssbattle.dev/targets/26.png" width="100" alt="26-" />](https://cssbattle.dev/play/26)
-[<img src="https://cssbattle.dev/targets/27.png" width="100" alt="27-" />](https://cssbattle.dev/play/27)
-[<img src="https://cssbattle.dev/targets/28.png" width="100" alt="28-" />](https://cssbattle.dev/play/28)
+[<img src="https://cssbattle.dev/targets/21.png" width="100" alt="21-sitepoint-logo" />](./4-display/21-sitepoint-logo.md)
+[<img src="https://cssbattle.dev/targets/22.png" width="100" alt="22-cloud" />](./4-display/22-cloud.md)
+[<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-boxception" />](./4-display/23-boxception.md)
+[<img src="https://cssbattle.dev/targets/24.png" width="100" alt="24-switches" />](./4-display/24-switches.md)
+[<img src="https://cssbattle.dev/targets/25.png" width="100" alt="25-blossom" />](./4-display/25-blossom.md)
+[<img src="https://cssbattle.dev/targets/26.png" width="100" alt="26-smiley" />](./4-display/26-smiley.md)
+[<img src="https://cssbattle.dev/targets/27.png" width="100" alt="27-lock-up" />](./4-display/27-lock-up.md)
+[<img src="https://cssbattle.dev/targets/28.png" width="100" alt="28-cups-and-balls" />](./4-display/28-cups-and-balls.md)
 
-[<img src="https://cssbattle.dev/targets/29.png" width="100" alt="29-" />](https://cssbattle.dev/play/29)
-[<img src="https://cssbattle.dev/targets/30.png" width="100" alt="30-" />](https://cssbattle.dev/play/30)
--->
+[<img src="https://cssbattle.dev/targets/29.png" width="100" alt="29-suffocate" />](./5-inline/29-suffocate.md)
+[<img src="https://cssbattle.dev/targets/30.png" width="100" alt="30-horizon" />](./5-inline/30-horizon.md)
+
+[<img src="https://cssbattle.dev/targets/31.png" width="100" alt="31-equals" />](./6-conic/31-equals.md)
+[<img src="https://cssbattle.dev/targets/32.png" width="100" alt="32-band-aid" />](./6-conic/32-band-aid.md)
+
+[<img src="https://cssbattle.dev/targets/33.png" width="100" alt="33-birdie" />](./7-backface/33-birdie.md)
+[<img src="https://cssbattle.dev/targets/34.png" width="100" alt="34-christmas-tree" />](./7-backface/34-christmas-tree.md)
+[<img src="https://cssbattle.dev/targets/35.png" width="100" alt="35-ice-cream" />](./7-backface/35-ice-cream.md)
+[<img src="https://cssbattle.dev/targets/36.png" width="100" alt="36-interleaved" />](./7-backface/36-interleaved.md)
+[<img src="https://cssbattle.dev/targets/37.png" width="100" alt="37-tunnel" />](./7-backface/37-tunnel.md)
+[<img src="https://cssbattle.dev/targets/38.png" width="100" alt="38-not-simply-square" />](./7-backface/38-not-simply-square.md)
+[<img src="https://cssbattle.dev/targets/39.png" width="100" alt="39-sunet" />](./7-backface/39-sunset.md)
+[<img src="https://cssbattle.dev/targets/40.png" width="100" alt="40-letter-b" />](./7-backface/40-letter-b.md)
+[<img src="https://cssbattle.dev/targets/41.png" width="100" alt="41-fox-head" />](./7-backface/41-fox-head.md)
 
 <!--
-[<img src="https://cssbattle.dev/targets/21.png" width="100" alt="21-" />](https://cssbattle.dev/play/21)
-[<img src="https://cssbattle.dev/targets/22.png" width="100" alt="22-" />](https://cssbattle.dev/play/22)
 [<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-" />](https://cssbattle.dev/play/23)
 [<img src="https://cssbattle.dev/targets/24.png" width="100" alt="24-" />](https://cssbattle.dev/play/24)
 [<img src="https://cssbattle.dev/targets/25.png" width="100" alt="25-" />](https://cssbattle.dev/play/25)
@@ -52,5 +61,6 @@
 
 ## Daily Targets
 
-[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Z90D6KR@2x.png?alt=media" width="100" alt="29-" />](./daily-targets/2-24-2024.md)
-[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_pYkKXWC@2x.png?alt=media" width="100" alt="30-" />](./daily-targets/2-25-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Z90D6KR@2x.png?alt=media" width="100" alt="2-24-2024" />](./daily-targets/2-24-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_pYkKXWC@2x.png?alt=media" width="100" alt="2-25-2024" />](./daily-targets/2-25-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_87hestB@2x.png?alt=media" width="100" alt="2-26-2024" />](./daily-targets/2-26-2024.md)
