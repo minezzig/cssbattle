@@ -60,7 +60,18 @@
 -->
 
 ## Daily Targets
+February 2024
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Z90D6KR@2x.png?alt=media" width="100" alt="2-24-2024" />](./daily-targets/2-24-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_pYkKXWC@2x.png?alt=media" width="100" alt="2-25-2024" />](./daily-targets/2-25-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_87hestB@2x.png?alt=media" width="100" alt="2-26-2024" />](./daily-targets/2-26-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_p0WUACe@2x.png?alt=media" width="100" alt="2-26-2024" />](./daily-targets/2-27-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_W8dkgqG@2x.png?alt=media" width="100" alt="2-26-2024" />](./daily-targets/2-28-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_W0Ie7VG@2x.png?alt=media" width="100" alt="2-29-2024" />](./daily-targets/2-29-2024.md)
+
+March 2024
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_KhgtPIj@2x.png?alt=media" width="100" alt="3-01-2024" />](./daily-targets/3-01-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_FIIK23c@2x.png?alt=media" width="100" alt="3-01-2024" />](./daily-targets/3-02-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_jykqKc8@2x.png?alt=media" width="100" alt="3-03-2024" />](./daily-targets/3-03-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_8gHmTBO@2x.png?alt=media" width="100" alt="3-04-2024" />](./daily-targets/3-04-2024.md)
