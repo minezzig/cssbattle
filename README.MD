@@ -48,6 +48,30 @@
 [<img src="https://cssbattle.dev/targets/40.png" width="100" alt="40-letter-b" />](./challenges/7-backface/40-letter-b.md)
 [<img src="https://cssbattle.dev/targets/41.png" width="100" alt="41-fox-head" />](./challenges/7-backface/41-fox-head.md)
 
+[<img src="https://cssbattle.dev/targets/42.png" width="100" alt="42-baby" />](./challenges/8-transition/42-baby.md)
+[<img src="https://cssbattle.dev/targets/43.png" width="100" alt="43-wrench" />](./challenges/8-transition/43-wrench.md)
+[<img src="https://cssbattle.dev/targets/44.png" width="100" alt="44-stripes" />](./challenges/8-transition/44-stripes.md)
+
+[<img src="https://cssbattle.dev/targets/45.png" width="100" alt="45-magical-tree" />](./challenges/9-margin/45-magical-tree.md)
+[<img src="https://cssbattle.dev/targets/46.png" width="100" alt="46-mountains" />](./challenges/9-margin/46-mountains.md)
+
+[<img src="https://cssbattle.dev/targets/47.png" width="100" alt="47-corona-virus" />](./challenges/10-block/47-corona-virus.md)
+[<img src="https://cssbattle.dev/targets/48.png" width="100" alt="48-wash-your-hands" />](./challenges/10-block/48-wash-your-hands.md)
+[<img src="https://cssbattle.dev/targets/49.png" width="100" alt="49-stay-at-home" />](./challenges/10-block/49-stay-at-home.md)
+[<img src="https://cssbattle.dev/targets/50.png" width="100" alt="50-use-hand-sanitizer" />](./challenges/10-block/50-use-hand-sanitizer.md)
+[<img src="https://cssbattle.dev/targets/51.png" width="100" alt="51-wear-a-mask" />](./challenges/10-block/51-wear-a-mask.md)
+[<img src="https://cssbattle.dev/targets/52.png" width="100" alt="52-break-the-chain" />](./challenges/10-block/52-break-the-chain.md)
+
+[<img src="https://cssbattle.dev/targets/53.png" width="100" alt="53-pastel-logo" />](./challenges/11-overflow/53-pastel-logo.md)
+[<img src="https://cssbattle.dev/targets/54.png" width="100" alt="54-black-lives-matter" />](./challenges/11-overflow/54-black-lives-matter.md)
+[<img src="https://cssbattle.dev/targets/55.png" width="100" alt="55-windmill" />](./challenges/11-overflow/55-windmill.md)
+[<img src="https://cssbattle.dev/targets/56.png" width="100" alt="56-skull" />](./challenges/11-overflow/56-skull.md)
+[<img src="https://cssbattle.dev/targets/57.png" width="100" alt="57-pillars" />](./challenges/11-overflow/57-pillars.md)
+[<img src="https://cssbattle.dev/targets/58.png" width="100" alt="58-rose" />](./challenges/11-overflow/58-rose.md)
+[<img src="https://cssbattle.dev/targets/59.png" width="100" alt="59-earth" />](./challenges/11-overflow/59-earth.md)
+[<img src="https://cssbattle.dev/targets/60.png" width="100" alt="60-evil-triangles" />](./challenges/11-overflow/60-evil-triangles.md)
+
+
 <!--
 [<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-" />](https://cssbattle.dev/play/23)
 [<img src="https://cssbattle.dev/targets/24.png" width="100" alt="24-" />](https://cssbattle.dev/play/24)
