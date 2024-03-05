@@ -71,6 +71,15 @@
 [<img src="https://cssbattle.dev/targets/59.png" width="100" alt="59-earth" />](./challenges/11-overflow/59-earth.md)
 [<img src="https://cssbattle.dev/targets/60.png" width="100" alt="60-evil-triangles" />](./challenges/11-overflow/60-evil-triangles.md)
 
+[<img src="https://cssbattle.dev/targets/61.png" width="100" alt="61-improvmx" />](./challenges/12-blend/61-improvmx.md)
+[<img src="https://cssbattle.dev/targets/62.png" width="100" alt="62-sunset" />](./challenges/12-blend/62-sunset.md)
+[<img src="https://cssbattle.dev/targets/63.png" width="100" alt="63-command-key" />](./challenges/12-blend/63-command-key.md)
+[<img src="https://cssbattle.dev/targets/64.png" width="100" alt="64-door-knob" />](./challenges/12-blend/64-door-knob.md)
+[<img src="https://cssbattle.dev/targets/65.png" width="100" alt="65-max-volume" />](./challenges/12-blend/65-max-volume.md)
+[<img src="https://cssbattle.dev/targets/66.png" width="100" alt="66-batmicky" />](./challenges/12-blend/66-batmicky.md)
+[<img src="https://cssbattle.dev/targets/67.png" width="100" alt="67-video-reel" />](./challenges/12-blend/67-video-reel.md)
+[<img src="https://cssbattle.dev/targets/68.png" width="100" alt="68-bell" />](./challenges/12-blend/68-bell.md)
+
 
 <!--
 [<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-" />](https://cssbattle.dev/play/23)
