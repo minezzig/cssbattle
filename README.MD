@@ -81,6 +81,15 @@
 [<img src="https://cssbattle.dev/targets/68.png" width="100" alt="68-bell" />](./challenges/12-blend/68-bell.md)
 
 
+[<img src="https://cssbattle.dev/targets/69.png" width="100" alt="69-pushOwl" />](./challenges/13-clip/69-pushOwl.md)
+[<img src="https://cssbattle.dev/targets/70.png" width="100" alt="70-froggy" />](./challenges/13-clip/70-froggy.md)
+[<img src="https://cssbattle.dev/targets/71.png" width="100" alt="71-elephant" />](./challenges/13-clip/71-elephant.md)
+[<img src="https://cssbattle.dev/targets/72.png" width="100" alt="72-sheep" />](./challenges/13-clip/72-sheep.md)
+[<img src="https://cssbattle.dev/targets/73.png" width="100" alt="73-happy-tiger" />](./challenges/13-clip/73-happy-tiger.md)
+[<img src="https://cssbattle.dev/targets/74.png" width="100" alt="74-danger-noodle" />](./challenges/13-clip/74-danger-noodle.md)
+[<img src="https://cssbattle.dev/targets/75.png" width="100" alt="75-hippo" />](./challenges/13-clip/75-hippo.md)
+[<img src="https://cssbattle.dev/targets/76.png" width="100" alt="76-beeee" />](./challenges/13-clip/76-beeee.md)
+
 <!--
 [<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-" />](https://cssbattle.dev/play/23)
 [<img src="https://cssbattle.dev/targets/24.png" width="100" alt="24-" />](https://cssbattle.dev/play/24)
