@@ -1,28 +1,25 @@
 # cssbattle
 
-[<img src="https://cssbattle.dev/targets/1.png" alt="1-simply-square" width="100" />](./challenges/1-pilot-battle/1-simply-square.md)
-[<img src="https://cssbattle.dev/targets/2.png" alt="2-carrom" width="100" />](./challenges/1-pilot-battle/2-carrom.md)
-[<img src="https://cssbattle.dev/targets/3.png" alt="3-push-button" width="100" />](./challenges/1-pilot-battle/3-push-button.md)
-[<img src="https://cssbattle.dev/targets/4.png" alt="4-ups-n-downs" width="100" />](./challenges/1-pilot-battle/4-ups-n-downs.md)
-[<img src="https://cssbattle.dev/targets/5.png" alt="5-acid-rain" width="100" />](./challenges/1-pilot-battle/5-acid-rain.md)
-[<img src="https://cssbattle.dev/targets/6.png" alt="6-missing-slice" width="100" />](./challenges/1-pilot-battle/6-missing-slice.md)
-[<img src="https://cssbattle.dev/targets/7.png" alt="7-leafy-trail" width="100" />](./challenges/1-pilot-battle/7-leafy-trail.md)
-[<img src="https://cssbattle.dev/targets/8.png" alt="8-forking-crazy" width="100" />](./challenges/1-pilot-battle/8-forking-crazy.md)
-[<img src="https://cssbattle.dev/targets/9.png" alt="9-tesseract" width="100" />](./challenges/1-pilot-battle/9-tesseract.md)
-[<img src="https://cssbattle.dev/targets/10.png" alt="10-cloaked-spirits" width="100" />](./challenges/1-pilot-battle/10-cloaked-spirits.md)
+[<img src="https://cssbattle.dev/targets/1.png" width="100" alt="1-simply-square" />](./challenges/1-pilot-battle/1-simply-square.md)
+[<img src="https://cssbattle.dev/targets/2.png" width="100" alt="2-carrom" />](./challenges/1-pilot-battle/2-carrom.md)
+[<img src="https://cssbattle.dev/targets/3.png" width="100" alt="3-push-button" />](./challenges/1-pilot-battle/3-push-button.md)
+[<img src="https://cssbattle.dev/targets/4.png" width="100" alt="4-ups-n-downs"/>](./challenges/1-pilot-battle/4-ups-n-downs.md)
+[<img src="https://cssbattle.dev/targets/5.png" width="100" alt="5-acid-rain" />](./challenges/1-pilot-battle/5-acid-rain.md)
+[<img src="https://cssbattle.dev/targets/6.png" width="100" alt="6-missing-slice" />](./challenges/1-pilot-battle/6-missing-slice.md)
+[<img src="https://cssbattle.dev/targets/7.png" width="100" alt="7-leafy-trail" />](./challenges/1-pilot-battle/7-leafy-trail.md)
+[<img src="https://cssbattle.dev/targets/8.png" width="100" alt="8-forking-crazy" />](./challenges/1-pilot-battle/8-forking-crazy.md)
+[<img src="https://cssbattle.dev/targets/9.png" width="100" alt="9-tesseract" />](./challenges/1-pilot-battle/9-tesseract.md)
+[<img src="https://cssbattle.dev/targets/10.png" width="100" alt="10-cloaked-spirits" />](./challenges/1-pilot-battle/10-cloaked-spirits.md)
 [<img src="https://cssbattle.dev/targets/11.png" width="100" alt="11-eyes-of-sauron-" />](./challenges/1-pilot-battle/11-eyes-of-sauron.md)
 [<img src="https://cssbattle.dev/targets/12.png" width="100" alt="12-wiggly-moustache" />](./challenges/1-pilot-battle/12-wiggly-moustache.md)
-
 [<img src="https://cssbattle.dev/targets/13.png" width="100" alt="13-totally-triangle" />](./challenges/2-visibility/13-totally-triangle.md)
 [<img src="https://cssbattle.dev/targets/14.png" width="100" alt="14-web-maker-logo" />](./challenges/2-visibility/14-web-maker-logo.md)
 [<img src="https://cssbattle.dev/targets/15.png" width="100" alt="15-overlap" />](./challenges/2-visibility/15-overlap.md)
 [<img src="https://cssbattle.dev/targets/16.png" width="100" alt="16-eye-of-the-tiger" />](./challenges/2-visibility/16-eye-of-the-tiger.md)
 [<img src="https://cssbattle.dev/targets/17.png" width="100" alt="17-fidget-spinner" />](./challenges/2-visibility/17-fidget-spinner.md)
 [<img src="https://cssbattle.dev/targets/18.png" width="100" alt="18-matrix" />](./challenges/2-visibility/18-matrix.md)
-
 [<img src="https://cssbattle.dev/targets/19.png" width="100" alt="19-cube" />](./challenges/3-cursor/19-cube.md)
 [<img src="https://cssbattle.dev/targets/20.png" width="100" alt="20-ticket" />](./challenges/3-cursor/20-ticket.md)
-
 [<img src="https://cssbattle.dev/targets/21.png" width="100" alt="21-sitepoint-logo" />](./challenges/4-display/21-sitepoint-logo.md)
 [<img src="https://cssbattle.dev/targets/22.png" width="100" alt="22-cloud" />](./challenges/4-display/22-cloud.md)
 [<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-boxception" />](./challenges/4-display/23-boxception.md)
@@ -31,13 +28,10 @@
 [<img src="https://cssbattle.dev/targets/26.png" width="100" alt="26-smiley" />](./challenges/4-display/26-smiley.md)
 [<img src="https://cssbattle.dev/targets/27.png" width="100" alt="27-lock-up" />](./challenges/4-display/27-lock-up.md)
 [<img src="https://cssbattle.dev/targets/28.png" width="100" alt="28-cups-and-balls" />](./challenges/4-display/28-cups-and-balls.md)
-
 [<img src="https://cssbattle.dev/targets/29.png" width="100" alt="29-suffocate" />](./challenges/5-inline/29-suffocate.md)
 [<img src="https://cssbattle.dev/targets/30.png" width="100" alt="30-horizon" />](./challenges/5-inline/30-horizon.md)
-
 [<img src="https://cssbattle.dev/targets/31.png" width="100" alt="31-equals" />](./challenges/6-conic/31-equals.md)
 [<img src="https://cssbattle.dev/targets/32.png" width="100" alt="32-band-aid" />](./challenges/6-conic/32-band-aid.md)
-
 [<img src="https://cssbattle.dev/targets/33.png" width="100" alt="33-birdie" />](./challenges/7-backface/33-birdie.md)
 [<img src="https://cssbattle.dev/targets/34.png" width="100" alt="34-christmas-tree" />](./challenges/7-backface/34-christmas-tree.md)
 [<img src="https://cssbattle.dev/targets/35.png" width="100" alt="35-ice-cream" />](./challenges/7-backface/35-ice-cream.md)
@@ -47,21 +41,17 @@
 [<img src="https://cssbattle.dev/targets/39.png" width="100" alt="39-sunet" />](./challenges/7-backface/39-sunset.md)
 [<img src="https://cssbattle.dev/targets/40.png" width="100" alt="40-letter-b" />](./challenges/7-backface/40-letter-b.md)
 [<img src="https://cssbattle.dev/targets/41.png" width="100" alt="41-fox-head" />](./challenges/7-backface/41-fox-head.md)
-
 [<img src="https://cssbattle.dev/targets/42.png" width="100" alt="42-baby" />](./challenges/8-transition/42-baby.md)
 [<img src="https://cssbattle.dev/targets/43.png" width="100" alt="43-wrench" />](./challenges/8-transition/43-wrench.md)
 [<img src="https://cssbattle.dev/targets/44.png" width="100" alt="44-stripes" />](./challenges/8-transition/44-stripes.md)
-
 [<img src="https://cssbattle.dev/targets/45.png" width="100" alt="45-magical-tree" />](./challenges/9-margin/45-magical-tree.md)
 [<img src="https://cssbattle.dev/targets/46.png" width="100" alt="46-mountains" />](./challenges/9-margin/46-mountains.md)
-
 [<img src="https://cssbattle.dev/targets/47.png" width="100" alt="47-corona-virus" />](./challenges/10-block/47-corona-virus.md)
 [<img src="https://cssbattle.dev/targets/48.png" width="100" alt="48-wash-your-hands" />](./challenges/10-block/48-wash-your-hands.md)
 [<img src="https://cssbattle.dev/targets/49.png" width="100" alt="49-stay-at-home" />](./challenges/10-block/49-stay-at-home.md)
 [<img src="https://cssbattle.dev/targets/50.png" width="100" alt="50-use-hand-sanitizer" />](./challenges/10-block/50-use-hand-sanitizer.md)
 [<img src="https://cssbattle.dev/targets/51.png" width="100" alt="51-wear-a-mask" />](./challenges/10-block/51-wear-a-mask.md)
 [<img src="https://cssbattle.dev/targets/52.png" width="100" alt="52-break-the-chain" />](./challenges/10-block/52-break-the-chain.md)
-
 [<img src="https://cssbattle.dev/targets/53.png" width="100" alt="53-pastel-logo" />](./challenges/11-overflow/53-pastel-logo.md)
 [<img src="https://cssbattle.dev/targets/54.png" width="100" alt="54-black-lives-matter" />](./challenges/11-overflow/54-black-lives-matter.md)
 [<img src="https://cssbattle.dev/targets/55.png" width="100" alt="55-windmill" />](./challenges/11-overflow/55-windmill.md)
@@ -70,7 +60,6 @@
 [<img src="https://cssbattle.dev/targets/58.png" width="100" alt="58-rose" />](./challenges/11-overflow/58-rose.md)
 [<img src="https://cssbattle.dev/targets/59.png" width="100" alt="59-earth" />](./challenges/11-overflow/59-earth.md)
 [<img src="https://cssbattle.dev/targets/60.png" width="100" alt="60-evil-triangles" />](./challenges/11-overflow/60-evil-triangles.md)
-
 [<img src="https://cssbattle.dev/targets/61.png" width="100" alt="61-improvmx" />](./challenges/12-blend/61-improvmx.md)
 [<img src="https://cssbattle.dev/targets/62.png" width="100" alt="62-sunset" />](./challenges/12-blend/62-sunset.md)
 [<img src="https://cssbattle.dev/targets/63.png" width="100" alt="63-command-key" />](./challenges/12-blend/63-command-key.md)
@@ -79,8 +68,6 @@
 [<img src="https://cssbattle.dev/targets/66.png" width="100" alt="66-batmicky" />](./challenges/12-blend/66-batmicky.md)
 [<img src="https://cssbattle.dev/targets/67.png" width="100" alt="67-video-reel" />](./challenges/12-blend/67-video-reel.md)
 [<img src="https://cssbattle.dev/targets/68.png" width="100" alt="68-bell" />](./challenges/12-blend/68-bell.md)
-
-
 [<img src="https://cssbattle.dev/targets/69.png" width="100" alt="69-pushOwl" />](./challenges/13-clip/69-pushOwl.md)
 [<img src="https://cssbattle.dev/targets/70.png" width="100" alt="70-froggy" />](./challenges/13-clip/70-froggy.md)
 [<img src="https://cssbattle.dev/targets/71.png" width="100" alt="71-elephant" />](./challenges/13-clip/71-elephant.md)
@@ -89,17 +76,13 @@
 [<img src="https://cssbattle.dev/targets/74.png" width="100" alt="74-danger-noodle" />](./challenges/13-clip/74-danger-noodle.md)
 [<img src="https://cssbattle.dev/targets/75.png" width="100" alt="75-hippo" />](./challenges/13-clip/75-hippo.md)
 [<img src="https://cssbattle.dev/targets/76.png" width="100" alt="76-beeee" />](./challenges/13-clip/76-beeee.md)
+[<img src="https://cssbattle.dev/targets/77.png" width="100" alt="77-notes" />](./challenges/14-zindex/77-notes.md)
+[<img src="https://cssbattle.dev/targets/78.png" width="100" alt="78-ukulele" />](./challenges/14-zindex/78-ukulele.md)
+[<img src="https://cssbattle.dev/targets/79.png" width="100" alt="79-tambourine" />](./challenges/14-zindex/79-tambourine.md)
+[<img src="https://cssbattle.dev/targets/80.png" width="100" alt="80-piano" />](./challenges/14-zindex/80-piano.md)
 
-<!--
-[<img src="https://cssbattle.dev/targets/23.png" width="100" alt="23-" />](https://cssbattle.dev/play/23)
-[<img src="https://cssbattle.dev/targets/24.png" width="100" alt="24-" />](https://cssbattle.dev/play/24)
-[<img src="https://cssbattle.dev/targets/25.png" width="100" alt="25-" />](https://cssbattle.dev/play/25)
-[<img src="https://cssbattle.dev/targets/26.png" width="100" alt="26-" />](https://cssbattle.dev/play/26)
-[<img src="https://cssbattle.dev/targets/27.png" width="100" alt="27-" />](https://cssbattle.dev/play/27)
-[<img src="https://cssbattle.dev/targets/28.png" width="100" alt="28-" />](https://cssbattle.dev/play/28)
-[<img src="https://cssbattle.dev/targets/29.png" width="100" alt="29-" />](https://cssbattle.dev/play/29)
-[<img src="https://cssbattle.dev/targets/30.png" width="100" alt="30-" />](https://cssbattle.dev/play/30)
--->
+
+<!-- DAILY TARGETS-->
 
 ## Daily Targets
 February 2024
