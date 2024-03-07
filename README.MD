@@ -89,6 +89,15 @@
 [<img src="https://cssbattle.dev/targets/87.png" width="100" alt="87-building-blocks" />](./challenges/15-filter/87-building-blocks.md)
 [<img src="https://cssbattle.dev/targets/88.png" width="100" alt="88-tight-corner" />](./challenges/15-filter/88-tight-corner.md)
 
+[<img src="https://cssbattle.dev/targets/89.png" width="100" alt="89-summit" />](./challenges/16-aspect/89-summit.md)
+[<img src="https://cssbattle.dev/targets/90.png" width="100" alt="90-eclipse" />](./challenges/16-aspect/90-eclipse.md)
+[<img src="https://cssbattle.dev/targets/91.png" width="100" alt="91-reflection" />](./challenges/16-aspect/91-reflection.md)
+[<img src="https://cssbattle.dev/targets/92.png" width="100" alt="92-squeeze" />](./challenges/16-aspect/92-squeeze.md)
+[<img src="https://cssbattle.dev/targets/93.png" width="100" alt="93-great-wall" />](./challenges/16-aspect/93-great-wall.md)
+[<img src="https://cssbattle.dev/targets/94.png" width="100" alt="94-ripples" />](./challenges/16-aspect/94-ripples.md)
+[<img src="https://cssbattle.dev/targets/95.png" width="100" alt="95-pokeball" />](./challenges/16-aspect/95-pokeball.md)
+[<img src="https://cssbattle.dev/targets/96.png" width="100" alt="96-mandala" />](./challenges/16-aspect/96-mandala.md)
+
 
 <!-- DAILY TARGETS-->
 
