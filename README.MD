@@ -88,7 +88,6 @@
 [<img src="https://cssbattle.dev/targets/86.png" width="100" alt="86-stairway" />](./challenges/15-filter/86-stairway.md)
 [<img src="https://cssbattle.dev/targets/87.png" width="100" alt="87-building-blocks" />](./challenges/15-filter/87-building-blocks.md)
 [<img src="https://cssbattle.dev/targets/88.png" width="100" alt="88-tight-corner" />](./challenges/15-filter/88-tight-corner.md)
-
 [<img src="https://cssbattle.dev/targets/89.png" width="100" alt="89-summit" />](./challenges/16-aspect/89-summit.md)
 [<img src="https://cssbattle.dev/targets/90.png" width="100" alt="90-eclipse" />](./challenges/16-aspect/90-eclipse.md)
 [<img src="https://cssbattle.dev/targets/91.png" width="100" alt="91-reflection" />](./challenges/16-aspect/91-reflection.md)
@@ -97,6 +96,11 @@
 [<img src="https://cssbattle.dev/targets/94.png" width="100" alt="94-ripples" />](./challenges/16-aspect/94-ripples.md)
 [<img src="https://cssbattle.dev/targets/95.png" width="100" alt="95-pokeball" />](./challenges/16-aspect/95-pokeball.md)
 [<img src="https://cssbattle.dev/targets/96.png" width="100" alt="96-mandala" />](./challenges/16-aspect/96-mandala.md)
+
+[<img src="https://cssbattle.dev/targets/97.png" width="100" alt="97-snowman" />](./challenges/17-christmas/97-snowman.md)
+[<img src="https://cssbattle.dev/targets/98.png" width="100" alt="98-candle" />](./challenges/17-christmas/98-candle.md)
+[<img src="https://cssbattle.dev/targets/99.png" width="100" alt="99-gift-box" />](./challenges/17-christmas/99-gift-box.md)
+[<img src="https://cssbattle.dev/targets/100.png" width="100" alt="100-cssbattle" />](./challenges/17-christmas/100-cssbattle.md)
 
 
 <!-- DAILY TARGETS-->
