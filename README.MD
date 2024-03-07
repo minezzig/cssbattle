@@ -80,6 +80,14 @@
 [<img src="https://cssbattle.dev/targets/78.png" width="100" alt="78-ukulele" />](./challenges/14-zindex/78-ukulele.md)
 [<img src="https://cssbattle.dev/targets/79.png" width="100" alt="79-tambourine" />](./challenges/14-zindex/79-tambourine.md)
 [<img src="https://cssbattle.dev/targets/80.png" width="100" alt="80-piano" />](./challenges/14-zindex/80-piano.md)
+[<img src="https://cssbattle.dev/targets/81.png" width="100" alt="81-odoo" />](./challenges/15-filter/81-odoo.md)
+[<img src="https://cssbattle.dev/targets/82.png" width="100" alt="82-diamond-cut" />](./challenges/15-filter/82-diamond-cut.md)
+[<img src="https://cssbattle.dev/targets/83.png" width="100" alt="83-supernova" />](./challenges/15-filter/83-supernova.md)
+[<img src="https://cssbattle.dev/targets/84.png" width="100" alt="84-junction" />](./challenges/15-filter/84-junction.md)
+[<img src="https://cssbattle.dev/targets/85.png" width="100" alt="85-pythagoras" />](./challenges/15-filter/85-pythagoras.md)
+[<img src="https://cssbattle.dev/targets/86.png" width="100" alt="86-stairway" />](./challenges/15-filter/86-stairway.md)
+[<img src="https://cssbattle.dev/targets/87.png" width="100" alt="87-building-blocks" />](./challenges/15-filter/87-building-blocks.md)
+[<img src="https://cssbattle.dev/targets/88.png" width="100" alt="88-tight-corner" />](./challenges/15-filter/88-tight-corner.md)
 
 
 <!-- DAILY TARGETS-->
@@ -102,3 +110,4 @@ March 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_8gHmTBO@2x.png?alt=media" width="100" alt="3-04-2024" />](./daily-targets/3-04-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qP6sBz9@2x.png?alt=media" width="100" alt="3-05-2024" />](./daily-targets/3-05-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_OCsLA1q@2x.png?alt=media" width="100" alt="3-06-2024" />](./daily-targets/3-06-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_ofjegvb@2x.png?alt=media" width="100" alt="3-07-2024" />](./daily-targets/3-07-2024.md)
