@@ -96,12 +96,18 @@
 [<img src="https://cssbattle.dev/targets/94.png" width="100" alt="94-ripples" />](./challenges/16-aspect/94-ripples.md)
 [<img src="https://cssbattle.dev/targets/95.png" width="100" alt="95-pokeball" />](./challenges/16-aspect/95-pokeball.md)
 [<img src="https://cssbattle.dev/targets/96.png" width="100" alt="96-mandala" />](./challenges/16-aspect/96-mandala.md)
-
 [<img src="https://cssbattle.dev/targets/97.png" width="100" alt="97-snowman" />](./challenges/17-christmas/97-snowman.md)
 [<img src="https://cssbattle.dev/targets/98.png" width="100" alt="98-candle" />](./challenges/17-christmas/98-candle.md)
 [<img src="https://cssbattle.dev/targets/99.png" width="100" alt="99-gift-box" />](./challenges/17-christmas/99-gift-box.md)
 [<img src="https://cssbattle.dev/targets/100.png" width="100" alt="100-cssbattle" />](./challenges/17-christmas/100-cssbattle.md)
-
+[<img src="https://cssbattle.dev/targets/101.png" width="100" alt="101-sharingan" />](./challenges/18-float/101-sharingan.md)
+[<img src="https://cssbattle.dev/targets/102.png" width="100" alt="102-one-piece" />](./challenges/18-float/102-one-piece.md)
+[<img src="https://cssbattle.dev/targets/103.png" width="100" alt="103-super-saiyan" />](./challenges/18-float/103-super-saiyan.md)
+[<img src="https://cssbattle.dev/targets/104.png" width="100" alt="104-amegakure" />](./challenges/18-float/104-amegakure.md)
+[<img src="https://cssbattle.dev/targets/105.png" width="100" alt="105-ryuk" />](./challenges/18-float/105-ryuk.md)
+[<img src="https://cssbattle.dev/targets/106.png" width="100" alt="106-ryuks-apple" />](./challenges/18-float/106-ryuks-apple.md)
+[<img src="https://cssbattle.dev/targets/107.png" width="100" alt="107-sealing-wand" />](./challenges/18-float/107-sealing-wand.md)
+[<img src="https://cssbattle.dev/targets/108.png" width="100" alt="108-clow-card" />](./challenges/18-float/108-clow-card.md)
 
 <!-- DAILY TARGETS-->
 
@@ -128,3 +134,4 @@ March 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IV5XxMP@2x.png?alt=media" width="100" alt="3-09-2024" />](./daily-targets/3-09-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_XgAQlne@2x.png?alt=media" width="100" alt="3-10-2024" />](./daily-targets/3-10-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_61RJZvV@2x.png?alt=media" width="100" alt="3-11-2024" />](./daily-targets/3-11-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_vnmxy4k@2x.png?alt=media" width="100" alt="3-12-2024" />](./daily-targets/3-12-2024.md)
