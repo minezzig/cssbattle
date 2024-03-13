@@ -109,6 +109,15 @@
 [<img src="https://cssbattle.dev/targets/107.png" width="100" alt="107-sealing-wand" />](./challenges/18-float/107-sealing-wand.md)
 [<img src="https://cssbattle.dev/targets/108.png" width="100" alt="108-clow-card" />](./challenges/18-float/108-clow-card.md)
 
+[<img src="https://cssbattle.dev/targets/109.png" width="100" alt="109-curtain" />](./challenges/19-spacing/109-curtain.md)
+[<img src="https://cssbattle.dev/targets/110.png" width="100" alt="110-sunrays" />](./challenges/19-spacing/110-sunrays.md)
+[<img src="https://cssbattle.dev/targets/111.png" width="100" alt="111-rain-drops" />](./challenges/19-spacing/111-rain-drops.md)
+[<img src="https://cssbattle.dev/targets/112.png" width="100" alt="112-chevron" />](./challenges/19-spacing/112-chevron.md)
+[<img src="https://cssbattle.dev/targets/113.png" width="100" alt="113-black-light" />](./challenges/19-spacing/113-black-light.md)
+[<img src="https://cssbattle.dev/targets/114.png" width="100" alt="114-negative-box" />](./challenges/19-spacing/114-negative-box.md)
+[<img src="https://cssbattle.dev/targets/115.png" width="100" alt="115-droplet" />](./challenges/19-spacing/115-droplet.md)
+[<img src="https://cssbattle.dev/targets/116.png" width="100" alt="116-headphones" />](./challenges/19-spacing/116-headphones.md)
+
 <!-- DAILY TARGETS-->
 
 ## Daily Targets
@@ -135,3 +144,4 @@ March 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_XgAQlne@2x.png?alt=media" width="100" alt="3-10-2024" />](./daily-targets/3-10-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_61RJZvV@2x.png?alt=media" width="100" alt="3-11-2024" />](./daily-targets/3-11-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_vnmxy4k@2x.png?alt=media" width="100" alt="3-12-2024" />](./daily-targets/3-12-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_492MNmV@2x.png?alt=media" width="100" alt="3-13-2024" />](./daily-targets/3-13-2024.md)
