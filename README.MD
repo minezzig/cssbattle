@@ -108,7 +108,6 @@
 [<img src="https://cssbattle.dev/targets/106.png" width="100" alt="106-ryuks-apple" />](./challenges/18-float/106-ryuks-apple.md)
 [<img src="https://cssbattle.dev/targets/107.png" width="100" alt="107-sealing-wand" />](./challenges/18-float/107-sealing-wand.md)
 [<img src="https://cssbattle.dev/targets/108.png" width="100" alt="108-clow-card" />](./challenges/18-float/108-clow-card.md)
-
 [<img src="https://cssbattle.dev/targets/109.png" width="100" alt="109-curtain" />](./challenges/19-spacing/109-curtain.md)
 [<img src="https://cssbattle.dev/targets/110.png" width="100" alt="110-sunrays" />](./challenges/19-spacing/110-sunrays.md)
 [<img src="https://cssbattle.dev/targets/111.png" width="100" alt="111-rain-drops" />](./challenges/19-spacing/111-rain-drops.md)
@@ -117,6 +116,15 @@
 [<img src="https://cssbattle.dev/targets/114.png" width="100" alt="114-negative-box" />](./challenges/19-spacing/114-negative-box.md)
 [<img src="https://cssbattle.dev/targets/115.png" width="100" alt="115-droplet" />](./challenges/19-spacing/115-droplet.md)
 [<img src="https://cssbattle.dev/targets/116.png" width="100" alt="116-headphones" />](./challenges/19-spacing/116-headphones.md)
+
+[<img src="https://cssbattle.dev/targets/117.png" width="100" alt="117-arineo" />](./challenges/20-hover/117-arineo.md)
+[<img src="https://cssbattle.dev/targets/118.png" width="100" alt="118-donkey-kong" />](./challenges/20-hover/118-donkey-kong.md)
+[<img src="https://cssbattle.dev/targets/119.png" width="100" alt="119-pacman" />](./challenges/20-hover/119-pacman.md)
+[<img src="https://cssbattle.dev/targets/120.png" width="100" alt="120-tank" />](./challenges/20-hover/120-tank.md)
+[<img src="https://cssbattle.dev/targets/121.png" width="100" alt="121-duck-hunt" />](./challenges/20-hover/121-duck-hunt.md)
+[<img src="https://cssbattle.dev/targets/122.png" width="100" alt="122-tetris" />](./challenges/20-hover/122-tetris.md)
+[<img src="https://cssbattle.dev/targets/123.png" width="100" alt="123-snake" />](./challenges/20-hover/123-snake.md)
+[<img src="https://cssbattle.dev/targets/124.png" width="100" alt="124-space-invaders" />](./challenges/20-hover/124-space-invaders.md)
 
 <!-- DAILY TARGETS-->
 
