@@ -116,7 +116,6 @@
 [<img src="https://cssbattle.dev/targets/114.png" width="100" alt="114-negative-box" />](./challenges/19-spacing/114-negative-box.md)
 [<img src="https://cssbattle.dev/targets/115.png" width="100" alt="115-droplet" />](./challenges/19-spacing/115-droplet.md)
 [<img src="https://cssbattle.dev/targets/116.png" width="100" alt="116-headphones" />](./challenges/19-spacing/116-headphones.md)
-
 [<img src="https://cssbattle.dev/targets/117.png" width="100" alt="117-arineo" />](./challenges/20-hover/117-arineo.md)
 [<img src="https://cssbattle.dev/targets/118.png" width="100" alt="118-donkey-kong" />](./challenges/20-hover/118-donkey-kong.md)
 [<img src="https://cssbattle.dev/targets/119.png" width="100" alt="119-pacman" />](./challenges/20-hover/119-pacman.md)
@@ -125,10 +124,19 @@
 [<img src="https://cssbattle.dev/targets/122.png" width="100" alt="122-tetris" />](./challenges/20-hover/122-tetris.md)
 [<img src="https://cssbattle.dev/targets/123.png" width="100" alt="123-snake" />](./challenges/20-hover/123-snake.md)
 [<img src="https://cssbattle.dev/targets/124.png" width="100" alt="124-space-invaders" />](./challenges/20-hover/124-space-invaders.md)
+[<img src="https://cssbattle.dev/targets/125.png" width="100" alt="123-snake" />](./challenges/21-rotate/125-root-learn.md)
+[<img src="https://cssbattle.dev/targets/126.png" width="100" alt="123-snake" />](./challenges/21-rotate/126-letter-a.md)
+[<img src="https://cssbattle.dev/targets/127.png" width="100" alt="123-snake" />](./challenges/21-rotate/127-letter-i.md)
+[<img src="https://cssbattle.dev/targets/128.png" width="100" alt="123-snake" />](./challenges/21-rotate/128-letter-n.md)
+[<img src="https://cssbattle.dev/targets/129.png" width="100" alt="123-snake" />](./challenges/21-rotate/129-letter-b.md)
+[<img src="https://cssbattle.dev/targets/130.png" width="100" alt="123-snake" />](./challenges/21-rotate/130-letter-o.md)
+[<img src="https://cssbattle.dev/targets/131.png" width="100" alt="123-snake" />](./challenges/21-rotate/131-letter-w.md)
+[<img src="https://cssbattle.dev/targets/132.png" width="100" alt="123-snake" />](./challenges/21-rotate/132-letter-s.md)
 
 <!-- DAILY TARGETS-->
 
 ## Daily Targets
+
 February 2024
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Z90D6KR@2x.png?alt=media" width="100" alt="2-24-2024" />](./daily-targets/2-24-2024.md)
@@ -155,3 +163,6 @@ March 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_492MNmV@2x.png?alt=media" width="100" alt="3-13-2024" />](./daily-targets/3-13-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_GntyqZA@2x.png?alt=media" width="100" alt="3-14-2024" />](./daily-targets/3-14-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qfgJ5qA@2x.png?alt=media" width="100" alt="3-15-2024" />](./daily-targets/3-15-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_kM42jPd@2x.png?alt=media" width="100" alt="3-16-2024" />](./daily-targets/3-16-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_En75Ycv@2x.png?alt=media" width="100" alt="3-17-2024" />](./daily-targets/3-17-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_xeEEJ8l@2x.png?alt=media" width="100" alt="3-18-2024" />](./daily-targets/3-18-2024.md)
