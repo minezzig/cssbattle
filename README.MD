@@ -132,6 +132,15 @@
 [<img src="https://cssbattle.dev/targets/130.png" width="100" alt="123-snake" />](./challenges/21-rotate/130-letter-o.md)
 [<img src="https://cssbattle.dev/targets/131.png" width="100" alt="123-snake" />](./challenges/21-rotate/131-letter-w.md)
 [<img src="https://cssbattle.dev/targets/132.png" width="100" alt="123-snake" />](./challenges/21-rotate/132-letter-s.md)
+[<img src="https://cssbattle.dev/targets/133.png" width="100" alt="123-snake" />](./challenges/22-grid/133-spiral.md)
+[<img src="https://cssbattle.dev/targets/134.png" width="100" alt="123-snake" />](./challenges/22-grid/134-wig.md)
+[<img src="https://cssbattle.dev/targets/135.png" width="100" alt="123-snake" />](./challenges/22-grid/135-spikes.md)
+[<img src="https://cssbattle.dev/targets/136.png" width="100" alt="123-snake" />](./challenges/22-grid/136-alien-eye.md)
+[<img src="https://cssbattle.dev/targets/137.png" width="100" alt="123-snake" />](./challenges/22-grid/137-elbow.md)
+[<img src="https://cssbattle.dev/targets/138.png" width="100" alt="123-snake" />](./challenges/22-grid/138-lotus.md)
+[<img src="https://cssbattle.dev/targets/139.png" width="100" alt="123-snake" />](./challenges/22-grid/139-lamp.md)
+[<img src="https://cssbattle.dev/targets/140.png" width="100" alt="123-snake" />](./challenges/22-grid/140-eclipse.md)
+
 
 <!-- DAILY TARGETS-->
 
