@@ -142,7 +142,6 @@
 [<img src="https://cssbattle.dev/targets/140.png" width="100" alt="140-eclipse" />](./challenges/22-grid/140-eclipse.md)
 [<img src="https://cssbattle.dev/targets/141.png" width="100" alt="141-third-eye" />](./challenges/23-contain/141-third-eye.md)
 [<img src="https://cssbattle.dev/targets/142.png" width="100" alt="142-curtains" />](./challenges/23-contain/142-curtains.md)
-
 [<img src="https://cssbattle.dev/targets/143.png" width="100" alt="143-simply-circle" />](./challenges/24-offset/143-simply-circle.md)
 [<img src="https://cssbattle.dev/targets/144.png" width="100" alt="144-long-heart" />](./challenges/24-offset/144-long-heart.md)
 [<img src="https://cssbattle.dev/targets/145.png" width="100" alt="145-potlight" />](./challenges/24-offset/145-spotlight.md)
@@ -151,6 +150,15 @@
 [<img src="https://cssbattle.dev/targets/148.png" width="100" alt="148-eight" />](./challenges/24-offset/148-eight.md)
 [<img src="https://cssbattle.dev/targets/149.png" width="100" alt="149-earthworm" />](./challenges/24-offset/149-earthworm.md)
 [<img src="https://cssbattle.dev/targets/150.png" width="100" alt="150-finger-heart" />](./challenges/24-offset/150-finger-heart.md)
+
+[<img src="https://cssbattle.dev/targets/151.png" width="100" alt="151-pawn" />](./challenges/25-flex/151-pawn.md)
+[<img src="https://cssbattle.dev/targets/152.png" width="100" alt="152-rook" />](./challenges/25-flex/152-rook.md)
+[<img src="https://cssbattle.dev/targets/153.png" width="100" alt="153-checkers" />](./challenges/25-flex/153-checkers.md)
+[<img src="https://cssbattle.dev/targets/154.png" width="100" alt="154-poker-chip" />](./challenges/25-flex/154-poker-chip.md)
+[<img src="https://cssbattle.dev/targets/155.png" width="100" alt="155-snakes-and-ladders" />](./challenges/25-flex/155-snakes-and-ladders.md)
+[<img src="https://cssbattle.dev/targets/156.png" width="100" alt="156-chinese-checkers" />](./challenges/25-flex/156-chinese-checkers.md)
+[<img src="https://cssbattle.dev/targets/157.png" width="100" alt="157-monopoly" />](./challenges/25-flex/157-monopoly.md)
+[<img src="https://cssbattle.dev/targets/158.png" width="100" alt="158-clubs" />](./challenges/25-flex/158-clubs.md)
 
 <!-- DAILY TARGETS-->
 
@@ -187,4 +195,6 @@ March 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_xeEEJ8l@2x.png?alt=media" width="100" alt="3-18-2024" />](./daily-targets/3-18-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tvqGC4G@2x.png?alt=media" width="100" alt="3-19-2024" />](./daily-targets/3-19-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_shbNPz5@2x.png?alt=media" width="100" alt="3-20-2024" />](./daily-targets/3-20-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BetfI71@2x.png?alt=media" width="100" alt="3-21-2024" />](./daily-targets/3-21-2024.md)
+
 
