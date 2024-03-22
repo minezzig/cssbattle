@@ -150,7 +150,6 @@
 [<img src="https://cssbattle.dev/targets/148.png" width="100" alt="148-eight" />](./challenges/24-offset/148-eight.md)
 [<img src="https://cssbattle.dev/targets/149.png" width="100" alt="149-earthworm" />](./challenges/24-offset/149-earthworm.md)
 [<img src="https://cssbattle.dev/targets/150.png" width="100" alt="150-finger-heart" />](./challenges/24-offset/150-finger-heart.md)
-
 [<img src="https://cssbattle.dev/targets/151.png" width="100" alt="151-pawn" />](./challenges/25-flex/151-pawn.md)
 [<img src="https://cssbattle.dev/targets/152.png" width="100" alt="152-rook" />](./challenges/25-flex/152-rook.md)
 [<img src="https://cssbattle.dev/targets/153.png" width="100" alt="153-checkers" />](./challenges/25-flex/153-checkers.md)
@@ -159,6 +158,16 @@
 [<img src="https://cssbattle.dev/targets/156.png" width="100" alt="156-chinese-checkers" />](./challenges/25-flex/156-chinese-checkers.md)
 [<img src="https://cssbattle.dev/targets/157.png" width="100" alt="157-monopoly" />](./challenges/25-flex/157-monopoly.md)
 [<img src="https://cssbattle.dev/targets/158.png" width="100" alt="158-clubs" />](./challenges/25-flex/158-clubs.md)
+
+[<img src="https://cssbattle.dev/targets/159.png" width="100" alt="159-portal" />](./challenges/26-initial/159-portal.md)
+[<img src="https://cssbattle.dev/targets/160.png" width="100" alt="160-donut" />](./challenges/26-initial/160-donut.md)
+[<img src="https://cssbattle.dev/targets/161.png" width="100" alt="161-converge" />](./challenges/26-initial/161-converge.md)
+[<img src="https://cssbattle.dev/targets/162.png" width="100" alt="162-upwards" />](./challenges/26-initial/162-upwards.md)
+[<img src="https://cssbattle.dev/targets/163.png" width="100" alt="163-missing-piece" />](./challenges/26-initial/163-missing-piece.md)
+[<img src="https://cssbattle.dev/targets/164.png" width="100" alt="164-rangoli" />](./challenges/26-initial/164-rangoli.md)
+[<img src="https://cssbattle.dev/targets/165.png" width="100" alt="165-pyramid" />](./challenges/26-initial/165-pyramid.md)
+[<img src="https://cssbattle.dev/targets/166.png" width="100" alt="166-flow" />](./challenges/26-initial/166-flow.md)
+
 
 <!-- DAILY TARGETS-->
 
@@ -196,5 +205,4 @@ March 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tvqGC4G@2x.png?alt=media" width="100" alt="3-19-2024" />](./daily-targets/3-19-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_shbNPz5@2x.png?alt=media" width="100" alt="3-20-2024" />](./daily-targets/3-20-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BetfI71@2x.png?alt=media" width="100" alt="3-21-2024" />](./daily-targets/3-21-2024.md)
-
-
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_KB7fv5b@2x.png?alt=media" width="100" alt="3-22-2024" />](./daily-targets/3-22-2024.md)
