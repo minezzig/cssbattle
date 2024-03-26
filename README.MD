@@ -209,3 +209,4 @@ March 2024
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_g2vqhtp@2x.png?alt=media" width="100" alt="3-25-2024" />](./daily-targets/3-25-2024.md)
 
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qZxD6q3@2x.png?alt=media" width="100" alt="3-26-2024" />](./daily-targets/3-26-2024.md)
