@@ -166,12 +166,19 @@
 [<img src="https://cssbattle.dev/targets/164.png" width="100" alt="164-rangoli" />](./challenges/26-initial/164-rangoli.md)
 [<img src="https://cssbattle.dev/targets/165.png" width="100" alt="165-pyramid" />](./challenges/26-initial/165-pyramid.md)
 [<img src="https://cssbattle.dev/targets/166.png" width="100" alt="166-flow" />](./challenges/26-initial/166-flow.md)
-
 [<img src="https://cssbattle.dev/targets/167.png" width="100" alt="167-react-india" />](./challenges/27-relative/167-react-india.md)
 [<img src="https://cssbattle.dev/targets/168.png" width="100" alt="168-carpet" />](./challenges/27-relative/168-carpet.md)
 [<img src="https://cssbattle.dev/targets/169.png" width="100" alt="169-abstract-plate" />](./challenges/27-relative/169-abstract-plate.md)
 [<img src="https://cssbattle.dev/targets/170.png" width="100" alt="170-party-hat" />](./challenges/27-relative/170-party-hat.md)
 
+[<img src="https://cssbattle.dev/targets/171.png" width="100" alt="171-pumpkin" />](./challenges/28-revert/171-pumpkin.md)
+[<img src="https://cssbattle.dev/targets/172.png" width="100" alt="172-crossbones" />](./challenges/28-revert/172-crossbones.md)
+[<img src="https://cssbattle.dev/targets/173.png" width="100" alt="173-hockey-mask" />](./challenges/28-revert/173-hockey-mask.md)
+[<img src="https://cssbattle.dev/targets/174.png" width="100" alt="174-witchs-hat" />](./challenges/28-revert/174-witchs-hat.md)
+[<img src="https://cssbattle.dev/targets/175.png" width="100" alt="175-evil-cat" />](./challenges/28-revert/175-evil-cat.md)
+[<img src="https://cssbattle.dev/targets/176.png" width="100" alt="176-castlevania" />](./challenges/28-revert/176-castlevania.md)
+[<img src="https://cssbattle.dev/targets/177.png" width="100" alt="177-frankenstein" />](./challenges/28-revert/177-frankenstein.md)
+[<img src="https://cssbattle.dev/targets/178.png" width="100" alt="178-candy" />](./challenges/28-revert/178-candy.md)
 
 <!-- DAILY TARGETS-->
 
