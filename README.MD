@@ -170,7 +170,6 @@
 [<img src="https://cssbattle.dev/targets/168.png" width="100" alt="168-carpet" />](./challenges/27-relative/168-carpet.md)
 [<img src="https://cssbattle.dev/targets/169.png" width="100" alt="169-abstract-plate" />](./challenges/27-relative/169-abstract-plate.md)
 [<img src="https://cssbattle.dev/targets/170.png" width="100" alt="170-party-hat" />](./challenges/27-relative/170-party-hat.md)
-
 [<img src="https://cssbattle.dev/targets/171.png" width="100" alt="171-pumpkin" />](./challenges/28-revert/171-pumpkin.md)
 [<img src="https://cssbattle.dev/targets/172.png" width="100" alt="172-crossbones" />](./challenges/28-revert/172-crossbones.md)
 [<img src="https://cssbattle.dev/targets/173.png" width="100" alt="173-hockey-mask" />](./challenges/28-revert/173-hockey-mask.md)
@@ -179,6 +178,15 @@
 [<img src="https://cssbattle.dev/targets/176.png" width="100" alt="176-castlevania" />](./challenges/28-revert/176-castlevania.md)
 [<img src="https://cssbattle.dev/targets/177.png" width="100" alt="177-frankenstein" />](./challenges/28-revert/177-frankenstein.md)
 [<img src="https://cssbattle.dev/targets/178.png" width="100" alt="178-candy" />](./challenges/28-revert/178-candy.md)
+
+[<img src="https://cssbattle.dev/targets/179.png" width="100" alt="179-tanzania" />](./challenges/29-font/179-tanzania.md)
+[<img src="https://cssbattle.dev/targets/180.png" width="100" alt="180-kuwait" />](./challenges/29-font/180-kuwait.md)
+[<img src="https://cssbattle.dev/targets/181.png" width="100" alt="181-iceland" />](./challenges/29-font/181-iceland.md)
+[<img src="https://cssbattle.dev/targets/182.png" width="100" alt="182-bahrain" />](./challenges/29-font/182-bahrain.md)
+[<img src="https://cssbattle.dev/targets/183.png" width="100" alt="183-brazil" />](./challenges/29-font/183-brazil.md)
+[<img src="https://cssbattle.dev/targets/184.png" width="100" alt="184-india" />](./challenges/29-font/184-india.md)
+[<img src="https://cssbattle.dev/targets/185.png" width="100" alt="185-south-korea" />](./challenges/29-font/185-south-korea.md)
+[<img src="https://cssbattle.dev/targets/186.png" width="100" alt="186-guernsey" />](./challenges/29-font/186-guernsey.md)
 
 <!-- DAILY TARGETS-->
 
@@ -226,6 +234,8 @@ March 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_NyQm6aW@2x.png?alt=media" width="100" alt="3-29-2024" />](./daily-targets/3-29-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_jEIZ5Hd@2x.png?alt=media" width="100" alt="3-30-2024" />](./daily-targets/3-30-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dKOSbgA@2x.png?alt=media" width="100" alt="3-31-2024" />](./daily-targets/3-31-2024.md)
-[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dM81nqn@2x.png?alt=media" width="100" alt="4-01-2024" />](./daily-targets/4-01-2024.md)
 
+April 2024
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dM81nqn@2x.png?alt=media" width="100" alt="4-01-2024" />](./daily-targets/4-01-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_6X3Ll6x@2x.png?alt=media" width="100" alt="4-02-2024" />](./daily-targets/4-02-2024.md)
