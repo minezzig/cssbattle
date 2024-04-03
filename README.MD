@@ -178,7 +178,6 @@
 [<img src="https://cssbattle.dev/targets/176.png" width="100" alt="176-castlevania" />](./challenges/28-revert/176-castlevania.md)
 [<img src="https://cssbattle.dev/targets/177.png" width="100" alt="177-frankenstein" />](./challenges/28-revert/177-frankenstein.md)
 [<img src="https://cssbattle.dev/targets/178.png" width="100" alt="178-candy" />](./challenges/28-revert/178-candy.md)
-
 [<img src="https://cssbattle.dev/targets/179.png" width="100" alt="179-tanzania" />](./challenges/29-font/179-tanzania.md)
 [<img src="https://cssbattle.dev/targets/180.png" width="100" alt="180-kuwait" />](./challenges/29-font/180-kuwait.md)
 [<img src="https://cssbattle.dev/targets/181.png" width="100" alt="181-iceland" />](./challenges/29-font/181-iceland.md)
@@ -187,6 +186,15 @@
 [<img src="https://cssbattle.dev/targets/184.png" width="100" alt="184-india" />](./challenges/29-font/184-india.md)
 [<img src="https://cssbattle.dev/targets/185.png" width="100" alt="185-south-korea" />](./challenges/29-font/185-south-korea.md)
 [<img src="https://cssbattle.dev/targets/186.png" width="100" alt="186-guernsey" />](./challenges/29-font/186-guernsey.md)
+
+[<img src="https://cssbattle.dev/targets/187.png" width="100" alt="187-striped-triangle" />](./challenges/30-gradient/187-striped-triangle.md)
+[<img src="https://cssbattle.dev/targets/188.png" width="100" alt="188-icecream-sticks" />](./challenges/30-gradient/188-icecream-sticks.md)
+[<img src="https://cssbattle.dev/targets/189.png" width="100" alt="189-triangle-hook" />](./challenges/30-gradient/189-triangle-hook.md)
+[<img src="https://cssbattle.dev/targets/190.png" width="100" alt="190-power-chip" />](./challenges/30-gradient/190-power-chip.md)
+[<img src="https://cssbattle.dev/targets/191.png" width="100" alt="191-modern-fence" />](./challenges/30-gradient/191-modern-fence.md)
+[<img src="https://cssbattle.dev/targets/192.png" width="100" alt="192-abstract-firefly" />](./challenges/30-gradient/192-abstract-firefly.md)
+[<img src="https://cssbattle.dev/targets/193.png" width="100" alt="193-galver" />](./challenges/30-gradient/193-galver.md)
+[<img src="https://cssbattle.dev/targets/194.png" width="100" alt="194-fountain" />](./challenges/30-gradient/194-fountain.md)
 
 <!-- DAILY TARGETS-->
 
@@ -239,3 +247,5 @@ April 2024
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dM81nqn@2x.png?alt=media" width="100" alt="4-01-2024" />](./daily-targets/4-01-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_6X3Ll6x@2x.png?alt=media" width="100" alt="4-02-2024" />](./daily-targets/4-02-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_UCHZZjJ@2x.png?alt=media" width="100" alt="4-03-2024" />](./daily-targets/4-03-2024.md)
+
