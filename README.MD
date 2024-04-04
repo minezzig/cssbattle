@@ -186,7 +186,6 @@
 [<img src="https://cssbattle.dev/targets/184.png" width="100" alt="184-india" />](./challenges/29-font/184-india.md)
 [<img src="https://cssbattle.dev/targets/185.png" width="100" alt="185-south-korea" />](./challenges/29-font/185-south-korea.md)
 [<img src="https://cssbattle.dev/targets/186.png" width="100" alt="186-guernsey" />](./challenges/29-font/186-guernsey.md)
-
 [<img src="https://cssbattle.dev/targets/187.png" width="100" alt="187-striped-triangle" />](./challenges/30-gradient/187-striped-triangle.md)
 [<img src="https://cssbattle.dev/targets/188.png" width="100" alt="188-icecream-sticks" />](./challenges/30-gradient/188-icecream-sticks.md)
 [<img src="https://cssbattle.dev/targets/189.png" width="100" alt="189-triangle-hook" />](./challenges/30-gradient/189-triangle-hook.md)
@@ -248,4 +247,6 @@ April 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dM81nqn@2x.png?alt=media" width="100" alt="4-01-2024" />](./daily-targets/4-01-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_6X3Ll6x@2x.png?alt=media" width="100" alt="4-02-2024" />](./daily-targets/4-02-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_UCHZZjJ@2x.png?alt=media" width="100" alt="4-03-2024" />](./daily-targets/4-03-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_C2mqVaQ@2x.png?alt=media" width="100" alt="4-04-2024" />](./daily-targets/4-04-2024.md)
+
 
