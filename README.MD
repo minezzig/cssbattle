@@ -258,3 +258,5 @@ April 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_4Xafs8p@2x.png?alt=media" width="100" alt="4-12-2024" />](./daily-targets/04-2024/4-12-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_cpN4ykc@2x.png?alt=media" width="100" alt="4-13-2024" />](./daily-targets/04-2024/4-13-2024.md)
 
+[<img src="" width="100" alt="4-14-2024" />](./daily-targets/04-2024/4-14-2024.md)
+[<img src="" width="100" alt="4-15-2024" />](./daily-targets/04-2024/4-15-2024.md)
