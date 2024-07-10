@@ -349,8 +349,8 @@ July 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_UFYOkUS@2x.png?alt=media" width="100" alt="7-03-2024" />](./daily-targets/07-2024/7-03-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_3JamGqE@2x.png?alt=media" width="100" alt="7-04-2024" />](./daily-targets/07-2024/7-04-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_kbJ8Ifi@2x.png?alt=media" width="100" alt="7-05-2024" />](./daily-targets/07-2024/7-05-2024.md)
-
-
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_rsbQJry@2x.png?alt=media" width="100" alt="7-06-2024" />](./daily-targets/07-2024/7-06-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_9CIn1ED@2x.png?alt=media" width="100" alt="7-07-2024" />](./daily-targets/07-2024/7-07-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_quOT2b3@2x.png?alt=media" width="100" alt="7-08-2024" />](./daily-targets/07-2024/7-08-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_xJqg5zC@2x.png?alt=media" width="100" alt="7-09-2024" />](./daily-targets/07-2024/7-09-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_nQKy8FS@2x.png?alt=media" width="100" alt="7-10-2024" />](./daily-targets/07-2024/7-10-2024.md)
