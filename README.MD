@@ -406,6 +406,12 @@ August 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_i5qnFjY@2x.png?alt=media" width="100" alt="08-26-2024" />](./daily-targets/08-2024/8-26-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_gUE4cb5@2x.png?alt=media" width="100" alt="08-27-2024" />](./daily-targets/08-2024/8-27-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_yQmYUJ6@2x.png?alt=media" width="100" alt="08-28-2024" />](./daily-targets/08-2024/8-28-2024.md)
-
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_EJXGIqM@2x.png?alt=media" width="100" alt="08-29-2024" />](./daily-targets/08-2024/8-29-2024.md)
 
+September 2024
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_HZGnehL@2x.png?alt=media" width="100" alt="09-01-2024" />](./daily-targets/09-2024/9-01-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_QqrUqGZ@2x.png?alt=media" width="100" alt="09-02-2024" />](./daily-targets/09-2024/9-02-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_zm7mplf@2x.png?alt=media" width="100" alt="09-03-2024" />](./daily-targets/09-2024/9-03-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_aIApkBL@2x.png?alt=media" width="100" alt="09-04-2024" />](./daily-targets/09-2024/9-04-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_uP8dWjO@2x.png?alt=media" width="100" alt="09-05-2024" />](./daily-targets/09-2024/9-05-2024.md)
