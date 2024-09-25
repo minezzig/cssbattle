@@ -434,3 +434,4 @@ September 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_VR2hWih@2x.png?alt=media" width="100" alt="09-22-2024" />](./daily-targets/09-2024/9-22-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_qMkt64h@2x.png?alt=media" width="100" alt="09-23-2024" />](./daily-targets/09-2024/9-23-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ItWdzDi@2x.png?alt=media" width="100" alt="09-24-2024" />](./daily-targets/09-2024/9-24-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_NxChpMz@2x.png?alt=media" width="100" alt="09-25-2024" />](./daily-targets/09-2024/9-25-2024.md)
