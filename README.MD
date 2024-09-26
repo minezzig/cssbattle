@@ -194,10 +194,10 @@
 [<img src="https://cssbattle.dev/targets/192.png" width="100" alt="192-abstract-firefly" />](./challenges/30-gradient/192-abstract-firefly.md)
 [<img src="https://cssbattle.dev/targets/193.png" width="100" alt="193-galver" />](./challenges/30-gradient/193-galver.md)
 [<img src="https://cssbattle.dev/targets/194.png" width="100" alt="194-fountain" />](./challenges/30-gradient/194-fountain.md)
-[<img src="https://cssbattle.dev/targets/204@2x.png" width="100" alt="204-deadpool" />](./challenges/32-animation/204-deadpool.md)
-[<img src="https://cssbattle.dev/targets/210@2x.png" width="100" alt="210-black-widow-logo" />](./challenges/32-animation/210-black-widow-logo.md)
 [<img src="https://cssbattle.dev/targets/203@2x.png" width="100" alt="203-wolverine" />](./challenges/32-animation/203-wolverine.md)
-
+[<img src="https://cssbattle.dev/targets/204@2x.png" width="100" alt="204-deadpool" />](./challenges/32-animation/204-deadpool.md)
+[<img src="https://cssbattle.dev/targets/207@2x.png" width="100" alt="207-green-lantern-logo" />](./challenges/32-animation/207-green-lantern-logo.md)
+[<img src="https://cssbattle.dev/targets/210@2x.png" width="100" alt="210-black-widow-logo" />](./challenges/32-animation/210-black-widow-logo.md)
 
 <!-- DAILY TARGETS-->
 
