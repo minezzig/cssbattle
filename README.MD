@@ -194,6 +194,8 @@
 [<img src="https://cssbattle.dev/targets/192.png" width="100" alt="192-abstract-firefly" />](./challenges/30-gradient/192-abstract-firefly.md)
 [<img src="https://cssbattle.dev/targets/193.png" width="100" alt="193-galver" />](./challenges/30-gradient/193-galver.md)
 [<img src="https://cssbattle.dev/targets/194.png" width="100" alt="194-fountain" />](./challenges/30-gradient/194-fountain.md)
+[<img src="https://cssbattle.dev/targets/204@2x.png" width="100" alt="204-deadpool" />](./challenges/32-animation/204-deadpool.md)
+
 
 <!-- DAILY TARGETS-->
 
@@ -436,3 +438,5 @@ September 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ItWdzDi@2x.png?alt=media" width="100" alt="09-24-2024" />](./daily-targets/09-2024/9-24-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_NxChpMz@2x.png?alt=media" width="100" alt="09-25-2024" />](./daily-targets/09-2024/9-25-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_TA6B8dy@2x.png?alt=media" width="100" alt="09-26-2024" />](./daily-targets/09-2024/9-26-2024.md)
+
+[<img src="" width="100" alt="09-27-2024" />](./daily-targets/09-2024/9-27-2024.md)
