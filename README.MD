@@ -196,7 +196,7 @@
 [<img src="https://cssbattle.dev/targets/194.png" width="100" alt="194-fountain" />](./challenges/30-gradient/194-fountain.md)
 [<img src="https://cssbattle.dev/targets/204@2x.png" width="100" alt="204-deadpool" />](./challenges/32-animation/204-deadpool.md)
 [<img src="https://cssbattle.dev/targets/210@2x.png" width="100" alt="210-black-widow-logo" />](./challenges/32-animation/210-black-widow-logo.md)
-
+[<img src="https://cssbattle.dev/targets/203@2x.png" width="100" alt="203-wolverine" />](./challenges/32-animation/203-wolverine.md)
 
 
 <!-- DAILY TARGETS-->
