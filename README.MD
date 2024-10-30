@@ -464,8 +464,8 @@ October 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_cqfKiG2@2x.png?alt=media" width="100" alt="10-15-2024" />](./daily-targets/10-2024/10-15-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_VBm7jol@2x.png?alt=media" width="100" alt="10-16-2024" />](./daily-targets/10-2024/10-16-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_9h5xqkC@2x.png?alt=media" width="100" alt="10-17-2024" />](./daily-targets/10-2024/10-17-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_WL1OWSZ@2x.png?alt=media" width="100" alt="10-18-2024" />](./daily-targets/10-2024/10-18-2024.md)
 
-[<img src="" width="100" alt="10-18-2024" />](./daily-targets/10-2024/10-18-2024.md)
 [<img src="" width="100" alt="10-19-2024" />](./daily-targets/10-2024/10-19-2024.md)
 [<img src="" width="100" alt="10-20-2024" />](./daily-targets/10-2024/10-20-2024.md)
 [<img src="" width="100" alt="10-21-2024" />](./daily-targets/10-2024/10-21-2024.md)
