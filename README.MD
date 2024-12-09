@@ -520,5 +520,6 @@ December 2024
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_DRFqYvW@2x.png?alt=media" width="100" alt="12-05-2024" />](./daily-targets/12-2024/12-05-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_k5MbLBx@2x.png?alt=media" width="100" alt="12-06-2024" />](./daily-targets/12-2024/12-06-2024.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_fZufZd1@2x.png?alt=media" width="100" alt="12-07-2024" />](./daily-targets/12-2024/12-07-2024.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_W7e6qEi@2x.png?alt=media" width="100" alt="12-08-2024" />](./daily-targets/12-2024/12-08-2024.md)
 
 
