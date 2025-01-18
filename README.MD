@@ -564,3 +564,4 @@ January 2025
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_hsG4qoE@2x.png?alt=media" width="100" alt="01-15-2025" />](./daily-targets/01-2025/01-15-2025.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_JbRzj95@2x.png?alt=media" width="100" alt="01-16-2025" />](./daily-targets/01-2025/01-16-2025.md)
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_T05guMt@2x.png?alt=media" width="100" alt="01-17-2025" />](./daily-targets/01-2025/01-17-2025.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_9fPM3V0@2x.png?alt=media" width="100" alt="01-18-2025" />](./daily-targets/01-2025/01-18-2025.md)
