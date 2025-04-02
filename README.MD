@@ -648,3 +648,4 @@ March 2025
 April 2025
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_a0S1TZl@2x.png?alt=media" width="100" alt="04-01-2025" />](./daily-targets/04-2025/04-01-2025.md)
+[<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_WN5eYn0@2x.png?alt=media" width="100" alt="04-02-2025" />](./daily-targets/04-2025/04-02-2025.md)
